@@ -1,13 +1,13 @@
 {
-    "name": "vscode-wrap-console-log",
-    "displayName": "Wrap Console Log",
+    "name": "vscode-wrap-console-log-forked",
+    "displayName": "Wrap Console Log (forked)",
     "description": "Wrap to console.log by word or selection",
     "repository": {
         "type": "git",
-        "url": "https://github.com/midnightsyntax/vscode-wrap-console-log"
+        "url": "https://github.com/wzulfikar/vscode-wrap-console-log"
     },
     "version": "1.7.4",
-    "publisher": "midnightsyntax",
+    "publisher": "wzulfikar",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.5.0"
